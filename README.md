@@ -37,6 +37,6 @@
 ## Documentación 
 > [!NOTE]
 > Las clases utilizadas han sido comentadas y se ha generado la javadoc en la carpeta: 
-> [Abrir carpeta contenedora](https://github.com/jeremy-lorente/LorenteJeremy_pruebatec2/tree/main/target/site/apidocs)
+> [Abrir carpeta](https://github.com/jeremy-lorente/LorenteJeremy_pruebatec2/tree/main/target/site/apidocs)
 
 
