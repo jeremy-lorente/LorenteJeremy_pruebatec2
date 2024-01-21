@@ -1,4 +1,3 @@
-
 <%@page import="com.lorente.jeremy.logica.Turno"%>
 <%@page import="com.lorente.jeremy.logica.Persona"%>
 <%@page import="com.lorente.jeremy.logica.Gestion"%>

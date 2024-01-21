@@ -1,9 +1,3 @@
-<%-- 
-    Document   : turno.jsp
-    Created on : 20 ene 2024, 14:49:14
-    Author     : Jeremy
---%>
-
 <%@page import="com.lorente.jeremy.logica.Turno"%>
 <%@page import="com.lorente.jeremy.logica.Controladora"%>
 <%@page import="com.lorente.jeremy.logica.Gestion"%>

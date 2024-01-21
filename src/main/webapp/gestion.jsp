@@ -1,9 +1,3 @@
-<%-- 
-    Document   : gestion
-    Created on : 20 ene 2024, 14:28:50
-    Author     : Jeremy
---%>
-
 <%@page import="com.lorente.jeremy.logica.Gestion"%>
 <%@page import="java.util.List"%>
 <%@page import="java.util.List"%>
@@ -13,13 +7,13 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Gestion</title>
-           <link rel="stylesheet" type="text/css" href="./css/estilo.css">
+        <link rel="stylesheet" type="text/css" href="./css/estilo.css">
     </head>
     <body>
         <nav>  
             <a href="index.jsp">Inicio</a>
             <a href="gestion.jsp">Gestiones</a>
-              <a href="turno.jsp">Turnos</a>
+            <a href="turno.jsp">Turnos</a>
         </nav>
 
         <div class="registrar-gestion">

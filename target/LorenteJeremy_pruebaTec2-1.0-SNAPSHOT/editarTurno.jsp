@@ -1,5 +1,3 @@
-
-
 <%@page import="com.lorente.jeremy.logica.Turno"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

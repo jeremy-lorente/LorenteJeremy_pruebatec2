@@ -9,8 +9,9 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- *
- * @author Jeremy
+ * Clase ControladoraPersistencia representa una interfaz que hace uso de los
+ * jpaController que permite manejar las operaciones CRUD con las entidades
+ * Gestion, Persona y Turno en la base de datos.
  */
 public class ControladoraPersistencia {
 
