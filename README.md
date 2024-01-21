@@ -33,7 +33,7 @@
 > [!WARNING]
 > - Usuario conoce el DNI:
 >   - Al registrar un turno, se entiende que la persona que utiliza el programa conoce el dni de la persona a la que va asignar el turno.
->   - Al eliminar a una persona, se entiende que la persona que utiliza el programa conoce el dni de la persona a la que va asignar el turno.
+>   - Al eliminar a una persona, se entiende que la persona que utiliza el programa conoce el dni de la persona a la que va a eliminar.
 ## Documentación 
 > [!NOTE]
 > Las clases utilizadas han sido comentadas y se ha generado la javadoc en la carpeta: 
